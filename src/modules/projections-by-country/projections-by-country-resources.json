@@ -1,0 +1,29 @@
+{
+  "en": {
+    "projections-by-country": {
+      "title": "Projection <span class='title--highlight'>by country</span>",
+      "subtitle": "World GDP growth fell to 2.9% this year – its lowest rate since the financial crisiss.",
+      "select-country-constant-title": "Search your country",
+      "read-button": "Country note",
+      "projection-button": "Economic snapshot"
+    }
+  },
+  "fr": {
+    "projections-by-country": {
+      "title": " FR - Projection <span class='title--highlight'>by country</span>",
+      "subtitle": "Le PIB mondial a diminué pour s’établir à 2.9 % cette année, soit son taux le plus bas depuis la crise financière...",
+      "select-country-constant-title": "Sélectionner un pays",
+      "read-button": "Notes par pays",
+      "projection-button": "Aperçu economique"
+    }
+  },
+  "es": {
+    "projections-by-country": {
+      "title": " ES - Projection <span class='title--highlight'>by country</span>",
+      "subtitle": "El crecimiento del PIB mundial ha caído al 2,9% este año – su nivel más bajo desde la crisis financiera.",
+      "select-country-constant-title": "Seleccionar un país",
+      "read-button": "Nota de país",
+      "projection-button": "Panorama económico"
+    }
+  }
+}

@@ -1,0 +1,10 @@
+.idea
+node_modules
+*.log
+/dist
+.settings
+node
+target
+.classpath
+.project
+.env

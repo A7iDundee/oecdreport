@@ -1,0 +1,81 @@
+{
+  "en": {
+    "publications--economic": {
+      "title": "Publications and <span class='title--highlight'>key resources</span>",
+      "cover-href": "https://www.oecd-ilibrary.org/sites/9ee00155-en/index.html?itemId=/content/publication/9ee00155-en",
+      "cover-src": "img/publications-key-resources.jpg",
+      "cover-alt": "Economic outlook Book",
+      "doi-href": "https://doi.org/10.1787/xxxxxx-en",
+      "doi-text": "doi.org/10.1787/xxxxxx-en",
+      "intro-title": "THE FUTURE OF WORK<br> Employment Outlook 2019",
+      "intro-texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit.",
+      "button-read-the-report-link-href": "https://www.oecd-ilibrary.org/",
+      "button-read-the-report-text": "READ THE REPORT",
+      "button-focus-link-href": "https://www.oecd-ilibrary.org/",
+      "button-focus-text": "FOCUS NOTES",
+      "link-items-1-href": "http://www.oecd.org/",
+      "link-items-1-text": "Highlights",
+      "link-items-2-href": "http://www.oecd.org/",
+      "link-items-2-text": "Eléments marquants",
+      "link-items-3-href": "http://www.oecd.org/",
+      "link-items-3-text": "Schwerpunkte",
+      "link-items-4-href": "http://www.oecd.org/",
+      "link-items-4-text": "Multilingual summaries",
+      "link-items-5-href": "http://www.oecd.org/",
+      "link-items-5-text": "Fellowship scheme",
+      "link-items-6-href": "https://",
+      "link-items-6-text": "G7 future of work forum"
+    }
+  },
+  "fr": {
+    "publications--economic": {
+      "title": "Publications and <span class='title--highlight'>key resources</span> [fr]",
+      "cover-href": "https://www.oecd-ilibrary.org/sites/9ee00155-en/index.html?itemId=/content/publication/9ee00155-en",
+      "cover-src": "img/publications-key-resources_fr.jpg",
+      "cover-alt": "Perspective economique - Livre",
+      "intro-title": "TITRE <br>Sous titre [fr]",
+      "intro-texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. [fr]",
+      "button-read-the-report-link-href": "https://www.oecd-ilibrary.org/sites/9ee00155-en/index.html?itemId=/content/publication/9ee00155-en",
+      "button-read-the-report-link-text": "READ THE REPORT [fr]",
+      "button-focus-link-href": "https://www.oecd-ilibrary.org/",
+      "button-focus-link-text": "FOCUS NOTES",
+      "link-items-1-href": "http://www.oecd.org/fr/",
+      "link-items-1-text": "Highlights [fr]",
+      "link-items-2-href": "http://www.oecd.org/fr/",
+      "link-items-2-text": "Eléments marquants [fr]",
+      "link-items-3-href": "http://www.oecd.org/",
+      "link-items-3-text": "Schwerpunkte [fr]",
+      "link-items-4-href": "http://www.oecd.org/",
+      "link-items-4-text": "Multilingual summaries [fr]",
+      "link-items-5-href": "http://www.oecd.org/",
+      "link-items-5-text": "Fellowship scheme [fr]",
+      "link-items-6-href": "https://community.oecd.org/community/g7-fow",
+      "link-items-6-text": "G7 future of work forum [fr]"
+    }
+  },
+  "es": {
+    "publications--economic": {
+      "title": "Publications and <span class='title--highlight'>key resources</span> [es]",
+      "cover-href": "https://www.oecd-ilibrary.org/sites/9ee00155-en/index.html?itemId=/content/publication/9ee00155-en",
+      "cover-src": "img/publications-key-resources_fr.jpg",
+      "cover-alt": "ES alternative image txt ",
+      "intro-title": "THE FUTURE OF WORK<br> Employment Outlook 2019 [es]",
+      "intro-texte": "Lorem ipsum dolor sit amet, consectetur adipiscing elit. [es]",
+      "button-esp": "<p  class='my-4'><a href='https://oecdcomms-mediahub.keepeek.com/m3kSf94Vb' class='btn-default' target='_blank' rel='noopener'>Textos seleccionados (ES, PT) </a></p>",
+      "button-read-the-report-link-href": "https://www.oecd-ilibrary.org/sites/9ee00155-en/index.html?itemId=/content/publication/9ee00155-en",
+      "button-read-the-report-link-text": "READ THE REPORT [es]",
+      "link-items-1-href": "http://www.oecd.org/",
+      "link-items-1-text": "Highlights [es]",
+      "link-items-2-href": "hhttp://www.oecd.org/",
+      "link-items-2-text": "Eléments marquants [es]",
+      "link-items-3-href": "http://www.oecd.org/",
+      "link-items-3-text": "Schwerpunkte [es]",
+      "link-items-4-href": "http://www.oecd.org/",
+      "link-items-4-text": "Multilingual summaries [es]",
+      "link-items-5-href": "http://www.oecd.org/",
+      "link-items-5-text": "Fellowship scheme [es]",
+      "link-items-6-href": "http://www.oecd.org/",
+      "link-items-6-text": "G7 future of work forum [es]"
+    }
+  }
+}

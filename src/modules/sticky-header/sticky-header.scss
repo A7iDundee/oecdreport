@@ -1,0 +1,118 @@
+@import "../../styles/helpers";
+
+/* Style the navbar */
+#navbar {
+    overflow: hidden;
+    background-color: #333;
+    z-index: 20; /* pop-in divs have z-index of 30 and should cover the menu */
+    font-size: medium;
+    font-family: Oswald, sans-serif;
+    font-weight: 400;
+    width: 100%;
+}
+
+.internal-nav__nav {
+    display: flex;
+    width: 100%;
+}
+
+.internal-nav__lang-sel {
+    display: none;
+}
+
+.internal-nav__lang-sel-visible {
+    @include respond-to('large') {
+        display: block;
+    }
+}
+
+.internal-nav__toggle {
+    float: right;
+    width: 45px;
+    height: 52px;
+    background: none;
+    border: none;
+    display: none;
+
+    &__force-visible {
+        display: block;
+        @include respond-to('medium') {
+            display: none;
+        }
+    }
+}
+
+  
+/* Navbar links */
+#navbar a {
+    float: left;
+    display: none;
+    color: #f2f2f2;
+    text-align: left;
+    padding: 1em 1.5em;
+    text-decoration: none;
+    width: calc(100% - 50px);
+
+    @include respond-to('medium') {
+        display: block;
+        width: auto;
+    }
+}
+
+#navbar a.active, #navbar a.force-visible {
+    display: block;
+}
+
+#navbar a:hover {
+    text-decoration: underline;
+}
+
+#navbar a.lang-sel-item {
+    font-weight: normal;
+    /* 
+        padding and margin-top should make up 14px 
+        which is the padding for #navbar a (see line 51)
+    */
+    padding: 5px;
+    margin: 9px 5px;
+    border: 1px solid rgb(103, 103, 103);
+    color: rgb(204, 204, 204);
+    border-radius: 4px;
+    &:hover {
+        text-decoration: none;
+        color: white;
+        border: 1px solid white;
+    }
+    // &::before {
+    //     content: '\203A';
+    //     margin-right: .33em;
+    //     @include font-size(20px);
+    // }
+}
+
+/* Page content */
+.content {
+    padding: 16px;
+}
+  
+/* The sticky class is added to the navbar with JS when it reaches its scroll position */
+.sticky {
+    position: fixed;
+    top: 0;
+    width: 100% !important;
+    box-shadow: 0px 8px 3px 3px rgba(51,51,51,0.2);
+}
+  
+/* Add some top padding to the page content to prevent sudden quick movement (as the navigation bar gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+    padding-top: 30px;
+}
+
+.sticky .active {
+    color: #ffc20e !important;
+}
+/* This is necessary according to Bootstrap scrollspy documentation */
+// body {
+//     position: relative !important;
+// }
+

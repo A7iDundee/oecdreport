@@ -1,0 +1,53 @@
+{
+  "en": {
+    "key-messages": {
+      "title": "Key take-aways (Key message)",
+      "tile-1-title": "Slide-title 1",
+      "tile-1-list-items": "<li> \"\" Technology is reshaping how we work</li><li>Some tasks are being done by robots or offshored</li><li>Other new ones are being created</li>",
+      "tile-1-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-1-link-text": "Learn More",
+      "tile-2-title": "Slide-title 2",
+      "tile-2-list-items": "<li>Young people, those with low skills and women</li><li>Workers who have temporary, part-time, zero-hourcontract or \"gig\" jobs</li><li>Independent workers with one main employer</li>",
+      "tile-2-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-2-link-text": "Learn More",
+      "tile-3-title": "Slide-title 3",
+      "tile-3-list-items": "<li>Addresses the skills deficit</li><li>Takes a new approach to social protection and collective bargaining</li><li>Provides investment targeted for those who need it most</li>",
+      "tile-3-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-3-link-text": "Learn More"
+    }
+  },
+  "fr": {
+    "key-messages": {
+      "title": "Titre principal [fr]",
+      "tile-1-title": "Tittre 1 [fr]",
+      "tile-1-list-items": "<li>[fr]</li><li>[fr]</li><li>[fr]</li>",
+      "tile-1-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-1-link-text": "Learn More [fr]",
+      "tile-2-title": "Titre 2 [fr]",
+      "tile-2-list-items": "<li>[fr]</li><li>[fr]</li><li>[fr]</li>",
+      "tile-2-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-2-link-text": "Learn More [fr]",
+      "tile-3-title": "Titre 3 [fr]",
+      "tile-3-list-items": "<li>[fr]</li><li>[fr]</li><li>[fr]</li>",
+      "tile-3-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-3-link-text": "Learn More [fr]"
+    }
+  },
+  "es": {
+    "key-messages": {
+      "title": "Key take-aways [es]",
+      "tile-1-title": "Title 1[es]",
+      "tile-1-list-items": "<li>[es]</li><li>[es]</li><li>[es]</li>",
+      "tile-1-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-1-link-text": "Learn More [es]",
+      "tile-2-title": "Title 2 [es]",
+      "tile-2-list-items": "<li>[es]</li><li>[es]</li><li>[es]</li>",
+      "tile-2-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-2-link-text": "Learn More [es]",
+      "tile-3-title": "Title 3 [es]",
+      "tile-3-list-items": "<li>[es]</li><li>[es]</li><li>[es]</li>",
+      "tile-3-link-href": "https://www.oecd-ilibrary.org/",
+      "tile-3-link-text": "Learn More [es]"
+    }
+  }
+}
